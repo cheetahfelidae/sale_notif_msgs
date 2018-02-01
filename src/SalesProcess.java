@@ -8,11 +8,13 @@ public class SalesProcess {
     private LogFile logFile;
     private ArrayList<Sale> stored_sales;
     private Hashtable<String, Integer> num_sales_products;
+    private ArrayList<Adjustment> adjust_products;
 
     SalesProcess(LogFile logFile) {
         this.logFile = logFile;
         stored_sales = new ArrayList<>();
         num_sales_products = new Hashtable<>();
+        adjust_products = new ArrayList<>();
     }
 
     private boolean is_int(String s) {
@@ -77,6 +79,26 @@ public class SalesProcess {
     }
 
     /**
+     * log a report detailing the number of sales of each product and their total value.
+     */
+    private void log_num_sales_and_totals() {
+        Set<Entry<String, Integer>> entries = num_sales_products.entrySet();
+        for (Entry<String, Integer> ent : entries) {
+            String str = "Name: " + ent.getKey() + "\t\t#Sale: " + ent.getValue() + "\t\tTotal: " + get_value(ent.getKey()) * ent.getValue();
+            logFile.logInfo(str);
+            System.out.println(str);
+        }
+    }
+
+    private void log_adjustments() {
+        for (Adjustment adj : adjust_products) {
+            String str = "Name: " + adj.getName() + "\t\t#Operation: " + adj.getOper() + "\t\tValue: " + adj.getValue();
+            logFile.logInfo(str);
+            System.out.println(str);
+        }
+    }
+
+    /**
      * Attempts to read the CSV file specified by filename.
      *
      * @param file_name of the file to read
@@ -86,7 +108,6 @@ public class SalesProcess {
         BufferedReader bfr = new BufferedReader(fr);
 
         String line;
-
         while ((line = bfr.readLine()) != null) {
             String[] tokens = line.split(",");
 
@@ -119,25 +140,19 @@ public class SalesProcess {
                 String oper = tokens[3];
 
                 if (!name.isEmpty() && value != null && num_sales == null && !oper.isEmpty()) {
+                    adjust_products.add(new Adjustment(name, oper, value));
                     update_value(name, value, oper);
                 }
             }
 
             if (stored_sales.size() % 10 == 0) {
-                Set<Entry<String, Integer>> entries = num_sales_products.entrySet();
-                for (Entry<String, Integer> ent : entries) {
-                    logFile.logInfo("Name: " + ent.getKey() + "\t\t#Sale: " + ent.getValue() + "\t\tTotal: " + get_value(ent.getKey()) * ent.getValue());
-                }
+                log_num_sales_and_totals();
             }
 
             if (stored_sales.size() % 50 == 0) {
-
+                log_adjustments();
             }
         }
-
-//        for (Sale sale : stored_sales) {
-//            logFile.logInfo(sale.getName() + " - " + sale.getValue());
-//        }
 
 
     }

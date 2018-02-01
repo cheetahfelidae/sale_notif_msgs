@@ -1,5 +1,4 @@
 import java.io.IOException;
-import java.net.InetAddress;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
@@ -21,6 +20,7 @@ public class LogFile {
         FileHandler file_handler = new FileHandler(file_path);
         file_handler.setFormatter(new SimpleFormatter());
         logger.addHandler(file_handler);
+        logger.setUseParentHandlers(false);
     }
 
     /**
