@@ -1,4 +1,4 @@
-public class Sale {
+public class Msg {
     private String name;
     private float value;
     private int num;
@@ -10,7 +10,7 @@ public class Sale {
      * @param name
      * @param value
      */
-    Sale(String name, float value) {
+    Msg(String name, float value) {
         this.name = name;
         this.value = value;
     }
@@ -21,7 +21,7 @@ public class Sale {
      * @param name
      * @param value
      */
-    Sale(String name, float value, int num) {
+    Msg(String name, float value, int num) {
         this.name = name;
         this.value = value;
         this.num = num;
@@ -33,7 +33,7 @@ public class Sale {
      * @param name
      * @param value
      */
-    Sale(String name, float value, String oper) {
+    Msg(String name, float value, String oper) {
         this.name = name;
         this.value = value;
         this.oper = oper;

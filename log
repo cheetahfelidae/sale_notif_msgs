@@ -1,222 +1,116 @@
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #1	Name: banana		#Sale: 4		Total: 20.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #2	Name: apple		#Sale: 34		Total: 340.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #3	Name: asparagus		#Sale: 5		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #4	Name: garlic		#Sale: 11		Total: 198.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #5	Name: cauliflower		#Sale: 23		Total: 1771.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #6	Name: eggplant		#Sale: 3		Total: 135.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #7	Name: beetroot		#Sale: 3		Total: 180.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #8	Name: eggplant		#Sale: 3		Total: 135.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #9	Name: garlic		#Sale: 11		Total: 198.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #10	Name: strawberry		#Sale: 5		Total: 150.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #11	Name: asparagus		#Sale: 5		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #12	Name: mango		#Sale: 16		Total: 320.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #13	Name: banana		#Sale: 13		Total: 65.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #14	Name: apple		#Sale: 49		Total: 637.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #15	Name: beetroot		#Sale: 3		Total: 180.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #16	Name: cauliflower		#Sale: 23		Total: 1771.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #17	Name: watermelon		#Sale: 21		Total: 1050.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #18	Name: eggplant		#Sale: 6		Total: 270.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #19	Name: garlic		#Sale: 33		Total: 594.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #20	Name: strawberry		#Sale: 11		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #21	Name: cabbage		#Sale: 22		Total: 1210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #22	Name: potato		#Sale: 30		Total: 120.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #23	Name: asparagus		#Sale: 5		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #24	Name: mango		#Sale: 31		Total: 620.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #25	Name: banana		#Sale: 38		Total: 190.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #26	Name: apple		#Sale: 49		Total: 637.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #27	Name: beetroot		#Sale: 3		Total: 180.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #28	Name: cauliflower		#Sale: 23		Total: 1771.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #29	Name: watermelon		#Sale: 21		Total: 1050.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #30	Name: eggplant		#Sale: 6		Total: 270.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #31	Name: garlic		#Sale: 33		Total: 594.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #32	Name: strawberry		#Sale: 70		Total: 2100.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #33	Name: cabbage		#Sale: 22		Total: 1210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #34	Name: potato		#Sale: 30		Total: 120.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #35	Name: asparagus		#Sale: 5		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #36	Name: mango		#Sale: 125		Total: 2500.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #37	Name: banana		#Sale: 38		Total: 190.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #38	Name: apple		#Sale: 49		Total: 637.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #39	Name: beetroot		#Sale: 3		Total: 180.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #40	Name: cauliflower		#Sale: 23		Total: 1771.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #41	Name: watermelon		#Sale: 54		Total: 2700.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #42	Name: onion		#Sale: 34		Total: 68.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #43	Name: eggplant		#Sale: 6		Total: 270.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #44	Name: garlic		#Sale: 55		Total: 990.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #45	Name: strawberry		#Sale: 70		Total: 2100.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #46	Name: cabbage		#Sale: 22		Total: 1210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #47	Name: carrot		#Sale: 23		Total: 253.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #48	Name: potato		#Sale: 63		Total: 252.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #49	Name: asparagus		#Sale: 5		Total: 330.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #50	Name: mango		#Sale: 137		Total: 2740.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #51	Name: banana		#Sale: 46		Total: 230.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #52	Name: apple		#Sale: 79		Total: 1027.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #53	Name: cucumber		#Sale: 15		Total: 405.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #54	Name: beetroot		#Sale: 3		Total: 180.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #55	Name: cauliflower		#Sale: 23		Total: 1771.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #56	Name: watermelon		#Sale: 61		Total: 3050.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #57	Name: apple		#Operation: add		Value: 3.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #58	Name: apple		#Sale: 79		Total: 1027.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #59	Name: cauliflower		#Sale: 29		Total: 2233.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #60	Name: banana		#Sale: 46		Total: 230.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #61	Name: watermelon		#Sale: 61		Total: 3050.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #62	Name: mango		#Sale: 137		Total: 2740.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #63	Name: potato		#Sale: 63		Total: 252.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #64	Name: carrot		#Sale: 23		Total: 253.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #65	Name: onion		#Sale: 34		Total: 68.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #66	Name: strawberry		#Sale: 70		Total: 2100.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #67	Name: beetroot		#Sale: 10		Total: 600.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #68	Name: cucumber		#Sale: 15		Total: 405.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #69	Name: cabbage		#Sale: 47		Total: 2585.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #70	Name: pumpkin		#Sale: 5		Total: 210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #71	Name: ginger		#Sale: 3		Total: 36.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #72	Name: eggplant		#Sale: 13		Total: 585.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #73	Name: garlic		#Sale: 55		Total: 990.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #74	Name: asparagus		#Sale: 8		Total: 528.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #75	Name: lettuce		#Sale: 2		Total: 38.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #76	Name: apple		#Sale: 95		Total: 1235.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #77	Name: cauliflower		#Sale: 29		Total: 2233.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #78	Name: banana		#Sale: 48		Total: 240.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #79	Name: watermelon		#Sale: 71		Total: 3550.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #80	Name: mango		#Sale: 163		Total: 3260.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #81	Name: potato		#Sale: 98		Total: 392.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #82	Name: carrot		#Sale: 23		Total: 253.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #83	Name: onion		#Sale: 34		Total: 68.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #84	Name: strawberry		#Sale: 70		Total: 2100.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #85	Name: beetroot		#Sale: 10		Total: 600.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #86	Name: cucumber		#Sale: 15		Total: 405.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #87	Name: cabbage		#Sale: 58		Total: 3190.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #88	Name: pumpkin		#Sale: 5		Total: 210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #89	Name: ginger		#Sale: 3		Total: 36.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #90	Name: eggplant		#Sale: 26		Total: 1170.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #91	Name: garlic		#Sale: 100		Total: 1800.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #92	Name: asparagus		#Sale: 8		Total: 528.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #93	Name: lettuce		#Sale: 2		Total: 38.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #94	Name: apple		#Sale: 128		Total: 1664.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #95	Name: cauliflower		#Sale: 29		Total: 2233.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #96	Name: banana		#Sale: 67		Total: 335.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #97	Name: watermelon		#Sale: 78		Total: 3900.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #98	Name: mango		#Sale: 195		Total: 3900.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #99	Name: potato		#Sale: 98		Total: 392.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #100	Name: carrot		#Sale: 23		Total: 253.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #101	Name: onion		#Sale: 34		Total: 68.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #102	Name: strawberry		#Sale: 71		Total: 2130.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #103	Name: beetroot		#Sale: 10		Total: 600.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #104	Name: cucumber		#Sale: 15		Total: 405.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #105	Name: cabbage		#Sale: 58		Total: 3190.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #106	Name: pumpkin		#Sale: 5		Total: 210.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #107	Name: ginger		#Sale: 3		Total: 36.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #108	Name: eggplant		#Sale: 26		Total: 1170.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #109	Name: garlic		#Sale: 100		Total: 1800.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #110	Name: asparagus		#Sale: 8		Total: 528.0
-Feb 01, 2018 5:44:04 PM LogFile logInfo
-INFO: #111	Name: lettuce		#Sale: 2		Total: 38.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: banana		#Msg: 4		Total: 20.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Msg: 34		Total: 340.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: asparagus		#Msg: 5		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: garlic		#Msg: 11		Total: 198.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cauliflower		#Msg: 23		Total: 1771.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: eggplant		#Msg: 3		Total: 135.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: beetroot		#Msg: 3		Total: 180.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: eggplant		#Msg: 3		Total: 135.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: garlic		#Msg: 11		Total: 198.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: strawberry		#Msg: 5		Total: 150.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: asparagus		#Msg: 5		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: mango		#Msg: 16		Total: 320.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: banana		#Msg: 13		Total: 65.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Msg: 49		Total: 637.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: beetroot		#Msg: 3		Total: 180.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cauliflower		#Msg: 23		Total: 1771.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: watermelon		#Msg: 21		Total: 1050.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: eggplant		#Msg: 6		Total: 270.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: garlic		#Msg: 33		Total: 594.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: strawberry		#Msg: 11		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cabbage		#Msg: 22		Total: 1210.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: potato		#Msg: 30		Total: 120.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: asparagus		#Msg: 5		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: mango		#Msg: 31		Total: 620.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: banana		#Msg: 38		Total: 190.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Msg: 49		Total: 637.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: beetroot		#Msg: 3		Total: 180.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cauliflower		#Msg: 23		Total: 1771.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: watermelon		#Msg: 21		Total: 1050.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: eggplant		#Msg: 6		Total: 270.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: garlic		#Msg: 33		Total: 594.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: strawberry		#Msg: 70		Total: 2100.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cabbage		#Msg: 22		Total: 1210.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: potato		#Msg: 30		Total: 120.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: asparagus		#Msg: 5		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: mango		#Msg: 125		Total: 2500.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: banana		#Msg: 38		Total: 190.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Msg: 49		Total: 637.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: beetroot		#Msg: 3		Total: 180.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cauliflower		#Msg: 23		Total: 1771.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: watermelon		#Msg: 54		Total: 2700.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: onion		#Msg: 34		Total: 68.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: eggplant		#Msg: 6		Total: 270.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: garlic		#Msg: 55		Total: 990.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: strawberry		#Msg: 70		Total: 2100.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cabbage		#Msg: 22		Total: 1210.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: carrot		#Msg: 23		Total: 253.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: potato		#Msg: 63		Total: 252.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: asparagus		#Msg: 5		Total: 330.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: mango		#Msg: 137		Total: 2740.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: banana		#Msg: 46		Total: 230.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Msg: 79		Total: 1027.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cucumber		#Msg: 15		Total: 405.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: beetroot		#Msg: 3		Total: 180.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: cauliflower		#Msg: 23		Total: 1771.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: watermelon		#Msg: 61		Total: 3050.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: Name: apple		#Operation: add		Value: 3.0
+Feb 02, 2018 9:25:29 AM LogFile logInfo
+INFO: The application has reached 50 messages and is no longer accepting new messages!
